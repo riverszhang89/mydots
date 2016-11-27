@@ -1,2 +1,4 @@
 set print thread-events off
 set height 0
+set print elements 0
+set print pretty on
